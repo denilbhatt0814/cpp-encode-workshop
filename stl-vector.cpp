@@ -67,6 +67,6 @@ int main() {
   }
   cout<<"\n";
   
-  retunr 0;
+  return 0;
 } 
 
